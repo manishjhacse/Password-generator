@@ -9,5 +9,4 @@ after generating password it's also indicate the password strength.
 
 ## Screenshots
 
-![App Screenshot](Screenshot%202023-09-10%20203935.png)
-
+![Screenshot 2023-09-10 203935](https://github.com/manishjhacse/Password-generator/assets/123859854/1693f537-e8ba-4384-9e5c-0d753aab6ac0)
